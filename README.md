@@ -2,7 +2,7 @@
 
 App that displays the list of users on Firebase's Cloud Firestore.
 
-<a href="https://youtu.be/MY9J6DEV3xo" target="_blank">Live Coding Video on YouTube</a>
+<a href="https://youtu.be/l9ifZayO1WA" target="_blank">Live Coding Video on YouTube</a>
 
 ## Skills Used
 
