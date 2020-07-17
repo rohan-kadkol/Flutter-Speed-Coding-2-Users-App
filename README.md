@@ -12,4 +12,10 @@ App that displays the list of users on Firebase's Cloud Firestore.
 
 ## Screenshot
 
+### Part 1
+
 <img src="images/screenshot.gif">
+
+### Part 2
+
+<img src="images/screenshot_1.gif">
