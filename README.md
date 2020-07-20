@@ -12,7 +12,7 @@ App that displays the list of users on Firebase's Cloud Firestore.
 * StreamBuilder
 * Card and ListTile
 
-## Screenshot
+## Screenshots
 
 ### Part 1 (Firestore, List of users)
 
